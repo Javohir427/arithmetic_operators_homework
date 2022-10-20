@@ -9,7 +9,10 @@
 #from re import S
 
 
+from cgitb import reset
+
+
 x = 10
 y = 5
-s=x+y
-print(s)
+result=x+y
+print(result)
