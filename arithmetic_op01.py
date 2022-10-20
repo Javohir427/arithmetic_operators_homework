@@ -6,7 +6,10 @@
 
 #Print the value of result.
 #lt is:'
+#from re import S
+
+
 x = 10
 y = 5
-
-print(x+y)
+s=x+y#
+print(s)
