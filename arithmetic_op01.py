@@ -11,5 +11,5 @@
 
 x = 10
 y = 5
-s=x+y#
+s=x+y
 print(s)
