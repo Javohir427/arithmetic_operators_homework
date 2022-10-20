@@ -1,5 +1,9 @@
-#Create a varaible 'number' and assign it the value of 43.
+from multiprocessing.connection import answer_challenge
 
-#Create a variable 'answer' and assign it the sum of the number's digits.
 
-#Print answer.
+number = 43
+a = 43%10
+b = 43//10
+answer = a+b
+print(answer)
+ 
