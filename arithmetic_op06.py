@@ -9,5 +9,6 @@
 #Print the number.
 #from re import A
 number = 7
-answer = (number%2)/2
+x = number%2
+answer = (x/2)
 print(answer)
